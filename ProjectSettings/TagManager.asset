@@ -3,6 +3,7 @@
 --- !u!78 &1
 TagManager:
   tags:
+  - DamageObject
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
@@ -12,8 +13,8 @@ TagManager:
   Builtin Layer 5: UI
   Builtin Layer 6: 
   Builtin Layer 7: 
-  User Layer 8: 
-  User Layer 9: 
+  User Layer 8: Ground
+  User Layer 9: Player
   User Layer 10: 
   User Layer 11: 
   User Layer 12: 
@@ -40,4 +41,16 @@ TagManager:
   - name: Default
     userID: 0
     uniqueID: 0
+    locked: 0
+  - name: Coin
+    userID: 2
+    uniqueID: 3534837493
+    locked: 0
+  - name: Block
+    userID: 1
+    uniqueID: 2494971979
+    locked: 0
+  - name: UI
+    userID: 3
+    uniqueID: 4086813705
     locked: 0
