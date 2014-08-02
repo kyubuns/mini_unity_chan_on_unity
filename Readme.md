@@ -3,7 +3,7 @@
 
 ## なにこれ？
 
-ユニティちゃんが、Inspectorから見守っていてくれるAssetです。
+ユニティちゃんが、Hierarchyウィンドウから見守っていてくれるAssetです。
 
 ![ScreenShot](https://raw.githubusercontent.com/kyubuns/mini_unity_chan_on_unity/master/Assets/Develop/ScreenShot.png)
 

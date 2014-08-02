@@ -1,6 +1,6 @@
 == ミニゆにてぃちゃん on Unity
 
-ユニティちゃんが、Inspectorから見守っていてくれるAssetです。
+ユニティちゃんが、Hierarchyウィンドウから見守っていてくれるAssetです。
 
 == ライセンス
 このアセットは、『ユニティちゃんライセンス( http://unity-chan.com/download/license.html )』で提供されています。
