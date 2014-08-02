@@ -11,9 +11,9 @@ class Core
 	/*
 	 * Settings
 	 */
-	static string spriteName = "UnityChan.png";
-	static float offsetX = 0.0f;
-	static float offsetY = 10.0f;
+	static readonly string spriteName = "UnityChan.png";
+	static readonly float offsetX = 0.0f;
+	static readonly float offsetY = 10.0f;
 
 	// ===========
 	
@@ -57,6 +57,7 @@ class Core
 
 		// spriteの描画
 		var sprite = view.CurrentSprite;
+		if(sprite == null) return;
 
 		Texture texture = sprite.texture;
 		Rect textureRect = sprite.textureRect;
