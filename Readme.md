@@ -7,7 +7,13 @@
 
 ![ScreenShot](https://raw.githubusercontent.com/kyubuns/mini_unity_chan_on_unity/master/Assets/Develop/ScreenShot.png)
 
-##ライセンス
+通常時、実行中、コンパイル中で別のアニメーションをします。
+
+## 使い方
+
+Assets/MiniUnityChanディレクトリを、プロジェクト内の好きな場所にコピーしてください。
+
+## ライセンス
 
 ![LicenceLogo](https://raw.githubusercontent.com/kyubuns/mini_unity_chan_on_unity/master/Assets/MiniUnityChan/Editor/Image/UnityChanLicenseLogo.png)
 
