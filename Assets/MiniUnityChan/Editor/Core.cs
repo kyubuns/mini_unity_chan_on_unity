@@ -13,7 +13,7 @@ class Core
 	 */
 	static readonly string spriteName = "UnityChan.png";
 	static readonly float offsetX = 0.0f;
-	static readonly float offsetY = 10.0f;
+	static readonly float offsetY = 20.0f;
 
 	// ===========
 	
